@@ -1,5 +1,5 @@
 title: Amzer - les associations
-remote_theme: oisiflorus/maquillage-danslajungle
+remote_theme: violaine-web/maquillage-danslajungle
 
 defaults:
   - scope:
@@ -8,8 +8,11 @@ defaults:
       layout: location
 
 collections:
-  presqu-ile-crozon:
+  camaret:
     output: true
+  lanveoc:
+    output: true
+    
 
 plugins:
   - jekyll-remote-theme
