@@ -1,13 +1,14 @@
 ---
 layout: page
 ---
-{% include banner.html %}
 
-## Consulter les lieux prévenants
+## La liste des associations
 
 {% include location-nav.html %}
 
-## Présentation
+## Qui fait quoi, où et quand !
+
+<!-- ## Présentation
 
 - [Pour qui ?](/pour-qui)
 - [Pour quoi ?](/pour-quoi)
@@ -22,4 +23,4 @@ layout: page
 
 - [Attentes collectives](/attentes-collectives)
 - [Nous rejoindre](/nous-rejoindre)
-- [Liens vers d'autres initiatives](/liens-autres-initiatives)
+- [Liens vers d'autres initiatives](/liens-autres-initiatives) /!-->
