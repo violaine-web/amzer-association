@@ -8,9 +8,25 @@ defaults:
       layout: location
 
 collections:
-  camaret:
+  argol:
+    output: true
+  camaret-sur-mer:
+    output: true
+  crozon:
+    output: true
+  landevennec:
     output: true
   lanveoc:
+    output: true
+  le-faou:
+    output: true
+  pont-de-buis-les-quimerch:
+    output: true
+  roscanvel:
+    output: true
+  rosnoen:
+    output: true
+  telgruc-sur-mer:
     output: true
     
 
