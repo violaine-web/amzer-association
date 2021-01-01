@@ -7,6 +7,8 @@ defaults:
     values:
       layout: location
 
+collections_dir: communes
+
 collections:
   argol:
     output: true
