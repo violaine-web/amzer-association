@@ -7,6 +7,14 @@ layout: page
 {% include location-nav.html %}
 
 ## Qui fait quoi, où et quand !
+- [liste des festivités](/liste-festivites)
+
+## Contact
+### Une question, une envie d'ajouter une association ou un évènement, contactez-nous !
+
+Amzer - 7 rue de Tal ar Groas - 29160 Lanvéoc  
+06 31 41 49 25  
+<violaine@amzer.bzh>
 
 <!-- ## Présentation
 
